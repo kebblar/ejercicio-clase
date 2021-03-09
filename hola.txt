@@ -1,0 +1,13 @@
+****** Hoy vimos GIT
+
+clone
+branch
+push
+checkout
+commit
+add
+setup-setream
+-------------------
+merge
+rebase
+
